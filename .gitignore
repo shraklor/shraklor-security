@@ -1,0 +1,11 @@
+__pycache__
+.pytest_cache
+*.swp
+*.lock
+*.log
+*.json
+.PyModules
+bin
+lib
+include
+.Python
